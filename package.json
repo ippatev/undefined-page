@@ -9,7 +9,9 @@
     "@slidev/cli": "^0.30.3",
     "@slidev/theme-apple-basic": "^0.20.0",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-geist": "^0.8.1",
+    "slidev-theme-takahashi": "^1.0.0"
   },
   "name": "undefined-page"
 }
