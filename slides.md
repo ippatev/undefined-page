@@ -82,8 +82,34 @@ Null и undefined - это не одно и то же.
 <!-- https://sli.dev/guide/animations.html#click-animations -->
 
 ---
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+
+# Зачем?
+
+---
+
+# Зачем?
+
+- зачем? нужен ли NGRX Effects?
+- зачем нам тесты?
+- зачем нужна простая архитектура?
+- зачем нужна дизайн система?
+
+---
+
+# Зачем? нужен ли NGRX Effects?
+
+---
+
+# Зачем нам тесты?
+
+---
+
+# Зачем нужна простая архитектура?
+
+---
+
+# Зачем нужна дизайн система?
+
 ---
 
 # Code
@@ -346,3 +372,9 @@ class: text-center
 # Learn More
 
 [Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+
+---
+
+# Вопросы
+
+---
