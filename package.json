@@ -13,5 +13,8 @@
     "slidev-theme-geist": "^0.8.1",
     "slidev-theme-takahashi": "^1.0.0"
   },
-  "name": "undefined-page"
+  "name": "undefined-page",
+  "devDependencies": {
+    "unplugin-icons": "^0.14.1"
+  }
 }
