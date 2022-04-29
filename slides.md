@@ -63,6 +63,22 @@ h1 {}
 ---
 
 
+<div grid="~ cols-4 gap-2" m="m-t-4">
+
+<img border="rounded" src="https://github.com/ippatev/undefined-page/blob/main/screenshots/undefined-alert-02.png?raw=true">
+
+<img border="rounded" src="https://github.com/ippatev/undefined-page/blob/main/screenshots/object-object-vk.jpg?raw=true">
+
+<img border="rounded" src="https://github.com/ippatev/undefined-page/blob/main/screenshots/undefined-alert.gif?raw=true">
+
+<img border="rounded" src="https://github.com/ippatev/undefined-page/blob/main/screenshots/undefined-red.png?raw=true">
+
+</div>
+
+
+---
+
+<div grid="~ cols-4 gap-2" m="m-t-4">
 
 <img border="rounded" src="https://github.com/ippatev/undefined-page/blob/main/screenshots/undefined-meme-01.jpg?raw=true">
 
@@ -107,18 +123,26 @@ Null и undefined - это не одно и то же.
 
 # Зачем? нужен ли NGRX Effects?
 
+<div grid="~ cols-2">
+  <img border="rounded" src="https://github.com/ippatev/undefined-page/blob/main/screenshots/state-management-lifecycle.png?raw=true">
+</div>
+
 ---
 
 # Зачем нужна простая архитектура?
 
-- [x] структура
+- [v] структура
 
-- масштабируемость и переиспользуемость
+- [x] масштабируемость и переиспользуемость
 
-- best practices
+- [x] best practices
+
+- [x] принципы и паттерны
 
 ---
 
 # Зачем нужна дизайн система?
+
+<img border="rounded" src="https://github.com/ippatev/undefined-page/blob/main/screenshots/design-system.png?raw=true">
 
 ---
